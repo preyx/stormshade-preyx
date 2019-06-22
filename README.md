@@ -1,5 +1,6 @@
 # PrEyX's Stormshade Presets
-My custom presets for the [Stormshade Reshade](http://stormshade.otakumouse.com/) plugin for Final Fantasy XIV
+
+Greetings from twitch.tv/xpreyx ! This is my custom preset for the [Stormshade Reshade](http://stormshade.otakumouse.com/) plugin for Final Fantasy XIV
 
 This is a preset meant for general gameplay, with an optional DOF filter for screenshots.
 
