@@ -10,7 +10,7 @@ My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless 
 
 **Notes:**
 - Install Stormshade using [Espresso Glow V11](http://bit.ly/EspressoGlowV11) by [Espresso Lalafell](https://twitter.com/Espressolala)
-- Make sure the ini file is in the same directory as your ffxiv.exe
+- Make sure the ini file is in the "game\reshade-presets" folder.
 - I use the "High (Desktop)" graphics preset with the following customizations:
   - Graphics Settings > General > Occlusion Culling > Off
   - Graphics Settings > General > Anti-aliasing > Off
