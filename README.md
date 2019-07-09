@@ -9,7 +9,7 @@ I wanted a stream-friendly shader with improved contrast and depth, but not too 
 My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless Windowed. This preset in its default state is GPU-intensive, but meant to stay above 60fps everywhere except where there are super-high PC counts (Limsa Aetheryte, hunt trains, etc.).
 
 **Notes:**
-- Install Stormshade using [Espresso Glow](http://bit.ly/EspressoGlowV9) by [Espresso Lalafell](https://twitter.com/Espressolala)
+- Install Stormshade using [Espresso Glow](http://bit.ly/EspressoGlowV11) by [Espresso Lalafell](https://twitter.com/Espressolala)
 - Make sure the ini file is in the same directory as your ffxiv.exe
 - I use the "High (Desktop)" graphics preset with the following customizations:
   - Graphics Settings > General > Occlusion Culling > Off
