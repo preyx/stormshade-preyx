@@ -9,7 +9,7 @@ I wanted a stream-friendly shader with improved contrast and depth, but not too 
 My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless Windowed. This preset in its default state is GPU-intensive, but meant to stay above 60fps everywhere except where there are super-high PC counts (Limsa Aetheryte, hunt trains, etc.).
 
 **Notes:**
-- Install Stormshade using [Espresso Glow](http://bit.ly/EspressoGlowV11) by [Espresso Lalafell](https://twitter.com/Espressolala)
+- Install Stormshade using [Espresso Glow V11](http://bit.ly/EspressoGlowV11) by [Espresso Lalafell](https://twitter.com/Espressolala)
 - Make sure the ini file is in the same directory as your ffxiv.exe
 - I use the "High (Desktop)" graphics preset with the following customizations:
   - Graphics Settings > General > Occlusion Culling > Off
@@ -21,8 +21,8 @@ My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless 
   - Graphics Settings > Effects > Radial Blur > Off
 
 **When loading the preset for the first time, verify the order of filters are as follows:**
-1. FFXIV_UIDisplay_Top_Keep
-2. FFXIV_MXAO
+1. FFKeepUI
+2. MXAOFFXIV
 3. DepthHaze *(Off)**
 4. ADOF *(Off)**
 5. MotionBlur
@@ -30,7 +30,7 @@ My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless 
 7. Tonemap
 8. AmbientLight
 9. Clarity
-10. FFXIVMultiLUT
+10. MultiLUT
 11. FilmicPass
 12. HDR *(Off)**
 13. LUT
@@ -38,7 +38,7 @@ My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless 
 15. Lightroom *(Off)**
 16. GaussianBlur
 17. Curves
-18. FFXIV_UIDisplay_Bottom_Restore
+18. FFRestoreUI
 
 \* *Off by default. More details below.*
 
