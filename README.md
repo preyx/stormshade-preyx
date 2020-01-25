@@ -1,15 +1,15 @@
-# PrEyX's Stormshade Presets
+# PrEyX's ReShade Preset
 
-Greetings from [twitch/xpreyx](https://www.twitch.tv/xpreyx)! This is my custom preset for the [Stormshade Reshade](http://stormshade.otakumouse.com/) plugin for Final Fantasy XIV
+Greetings from [twitch/xpreyx](https://www.twitch.tv/xpreyx)! This is my custom ReShade preset for Final Fantasy XIV
 
-This is a preset meant for general gameplay, with an optional DOF filter for screenshots.
+This is a preset meant for general gameplay, with optional DOF filters for screenshots.
 
 I wanted a stream-friendly shader with improved contrast and color depth, but not too extreme in any direction as to render it un-watchable. It was originally developed for Stormshade 3 as a heavily modified Stormshade Vanilla preset, but I re-made it in Espresso Glow (GShade 2.x).
 
 My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless Windowed. This preset in its default state places a moderate load (~15%) on my GPU, but it is meant to keep me above 60fps everywhere except where there are super-high PC counts (Limsa Aetheryte Plaza, hunt trains, etc.).
 
 **Notes:**
-- Install [Espresso Glow v11](http://bit.ly/EspressoGlowV11) by [Espresso Lalafell](https://twitter.com/Espressolala). Install any updates available.
+- Install [Espresso Glow v11](http://bit.ly/EspressoGlowV11) by [Espresso Lalafell](https://twitter.com/Espressolala). Install any available updates.
 - Place "FF14-PrEyX.ini" in the "game\reshade-presets" folder.
 - Activate the "FF14-PrEyX" preset and enjoy!
 - I use the "High (Desktop)" FFXIV graphics preset with the following customizations:
