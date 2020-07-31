@@ -9,9 +9,11 @@ I wanted a stream-friendly shader with improved contrast and color depth, but no
 My PC setup is Intel i7-6700k, nVidia GTX1070. Game is set to 1080p, Borderless Windowed. This preset in its default state places a moderate load (~15%) on my GPU, but it is meant to keep me above 60fps everywhere except where there are super-high PC counts (Limsa Aetheryte Plaza, hunt trains, etc.).
 
 **Notes:**
-- Install [GShade](https://gposers.com/gshade/). Select *game\ffxiv_dx11.exe* as the game file
-- Place *FF14-PrEyX.ini* in the *game\gshade-presets* folder.
-- Activate the *FF14-PrEyX* preset and enjoy!
+- Install instructions:
+  - Remove previous ReShade/GShade installations.
+  - Download and install [GShade](https://gposers.com/gshade/). Select *game\ffxiv_dx11.exe* as the game file.
+  - Place *FF14-PrEyX.ini* in the *game\gshade-presets* folder.
+  - Activate the *FF14-PrEyX* preset and enjoy!
 - I use the *High (Desktop)* FFXIV graphics preset with the following customizations:
   - Graphics Settings > General > Occlusion Culling > Off
   - Graphics Settings > General > Anti-aliasing > Off
